@@ -1,0 +1,13 @@
+Shapes+ color: String
++ name: String
++ listPicked: String+pickColor(): String
++printList():
+
+
+
+Squares- shapeLength: Int
+- pickLength():Rectangles- shapeLength: Int
+- pickLength():Triangles- shapeLength: Int
+- pickLength():
+
+
